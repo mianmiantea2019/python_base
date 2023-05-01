@@ -1,3 +1,5 @@
+print('goodbye, world', end='!\n')
+
 a = 42             # integer
 b = 3.14           # float
 c = 2 + 3j        # complex number 
